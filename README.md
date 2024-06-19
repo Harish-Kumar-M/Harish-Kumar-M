@@ -1,16 +1,15 @@
-# Hi there, I'm Harishkumar 👋
+# Hi there, I'm Harish Kumar 👋
 
 I'm a DevOps Engineer at Archimedis Digital with a strong background in various tools and technologies. Here's an overview of my skills and areas of expertise:
 
 ## 🛠 Skills and Technologies
 
 ### Source Code Management
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://github.com/Harish-Kumar-M)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
 
 ### Software Development Lifecycle (SDLC)
 - Agile methodologies
-- Continuous Integration/Continuous Deployment (CI/CD)
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -31,11 +30,17 @@ I'm a DevOps Engineer at Archimedis Digital with a strong background in various 
 ### Containerization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+###Collaboration Tools
+- **Jira**
+
+
+### Networking and Infrastructure
+- DNS, VPNs
+
 ## 🌱 Areas for Further Development
 
 ### Containerization and Orchestration
 - **Kubernetes**
-- **Helm**
 
 ### CI/CD Tools
 - **Jenkins**
@@ -47,27 +52,12 @@ I'm a DevOps Engineer at Archimedis Digital with a strong background in various 
 - **Azure**
 - **Google Cloud Platform (GCP)**
 
-### Security Practices
-- **HashiCorp Vault**
-- **AWS IAM**
-
 ### Monitoring and Logging
 - **Prometheus**
 - **Grafana**
-- **ELK Stack**
 
 ### Configuration Management
 - **Ansible**
-- **Puppet**
-- **Chef**
-
-### Networking and Infrastructure
-- DNS, Load Balancers, VPNs
-
-### Soft Skills and Collaboration Tools
-- **Slack**
-- **Jira**
-- **Confluence**
 
 ## 📚 Certifications and Continuous Learning
 - [AWS Certified DevOps Engineer](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
@@ -76,17 +66,18 @@ I'm a DevOps Engineer at Archimedis Digital with a strong background in various 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-Kumar-M&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Kumar-M&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [your-github-profile](https://github.com/your-github-username)
+- **Email**: [mhkharish192003@gmail.com](mailto:your-email@example.com)
+- **LinkedIn**: [Harish Kumar M](https://www.linkedin.com/in/harish-kumar-m-594739213/)
+- **GitHub**: [Harish-Kumar-M](https://github.com/Harish-Kumar-M)
+
 
 ---
 
