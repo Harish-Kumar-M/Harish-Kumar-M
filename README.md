@@ -5,7 +5,7 @@ I'm a DevOps Engineer at Archimedis Digital with a strong background in various 
 ## 🛠 Skills and Technologies
 
 ### Source Code Management
-![Git](https://github.com/Harish-Kumar-M)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
 
 ### Software Development Lifecycle (SDLC)
@@ -22,6 +22,10 @@ I'm a DevOps Engineer at Archimedis Digital with a strong background in various 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+### Database Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 ### Configuration and Build Tools
 ![YAML](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat-square&logo=sonarlint&logoColor=white)
@@ -30,12 +34,12 @@ I'm a DevOps Engineer at Archimedis Digital with a strong background in various 
 ### Containerization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-###Collaboration Tools
+### Collaboration Tools
 - **Jira**
-
 
 ### Networking and Infrastructure
 - DNS, VPNs
+
 
 ## 🌱 Areas for Further Development
 
@@ -44,13 +48,11 @@ I'm a DevOps Engineer at Archimedis Digital with a strong background in various 
 
 ### CI/CD Tools
 - **Jenkins**
-- **GitHub Actions**
 - **Terraform**
 
 ### Cloud Platforms
 - **AWS**
 - **Azure**
-- **Google Cloud Platform (GCP)**
 
 ### Monitoring and Logging
 - **Prometheus**
@@ -58,15 +60,6 @@ I'm a DevOps Engineer at Archimedis Digital with a strong background in various 
 
 ### Configuration Management
 - **Ansible**
-
-## 📚 Certifications and Continuous Learning
-- [AWS Certified DevOps Engineer](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
-- [Google Professional DevOps Engineer](https://cloud.google.com/certification/devops-engineer)
-- [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-Kumar-M&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
@@ -76,7 +69,6 @@ I'm a DevOps Engineer at Archimedis Digital with a strong background in various 
 
 - **Email**: [mhkharish192003@gmail.com](mailto:your-email@example.com)
 - **LinkedIn**: [Harish Kumar M](https://www.linkedin.com/in/harish-kumar-m-594739213/)
-- **GitHub**: [Harish-Kumar-M](https://github.com/Harish-Kumar-M)
 
 
 ---
