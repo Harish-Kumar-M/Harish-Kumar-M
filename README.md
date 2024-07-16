@@ -61,10 +61,6 @@ I'm a DevOps Engineer at Archimedis Digital with a strong background in various 
 ### Configuration Management
 - **Ansible**
 
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Kumar-M&layout=compact&theme=radical)
-
 ## 📫 How to reach me
 
 - **Email**: [mhkharish192003@gmail.com](mailto:your-email@example.com)
